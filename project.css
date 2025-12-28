@@ -145,9 +145,6 @@ cursor: pointer;
     transition: .5s;
 }
 
-#cardsec {
-    display: flex;flex-direction: row;justify-content: space-evenly;
-}
 .card {
 margin: 0;width: 30%;
 padding: 0;
@@ -194,4 +191,5 @@ cursor: pointer;
     justify-content: center;
     gap: 20px;
   }
+
   
