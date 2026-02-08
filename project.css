@@ -8,7 +8,7 @@ body {
 
 
 .heading {
-  background-image: url('../code/vscode/images/narendramodi.webp');
+  background-image: url('../vscode/images/narendramodi.webp');
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -184,4 +184,5 @@ cursor: pointer;
   }
 
   
+
 
